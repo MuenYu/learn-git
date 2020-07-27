@@ -1,3 +1,7 @@
 func1{
 	details...
 }
+
+func2{
+	details...
+}
