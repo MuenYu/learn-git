@@ -7,5 +7,5 @@ func2{
 }
 
 func3{
-    details...
+	details...
 }
